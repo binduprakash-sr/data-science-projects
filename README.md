@@ -1,4 +1,3 @@
-# data-science-projects
 # Health Insurance Cost Prediction using Machine Learning
 
 ## Project Overview
